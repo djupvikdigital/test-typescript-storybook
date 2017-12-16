@@ -8,8 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@types/prop-types": "^15.5.2",
-    "prop-types": "^15.6.0"
-  }
+  "dependencies": {}
 }
